@@ -23,9 +23,9 @@ include src/makefile-options
 
 # which layouts to compile (will override the variable in src/makefile-options)
 # --- default
-LAYOUT := qwerty-kinesis-mod
+LAYOUT := qwerty-hughg-mod
 # --- all
-LAYOUTS := qwerty-kinesis-mod dvorak-kinesis-mod colemak-symbol-mod workman-p-kinesis-mod
+LAYOUTS := qwerty-hughg-mod qwerty-kinesis-mod dvorak-kinesis-mod colemak-symbol-mod workman-p-kinesis-mod
 
 # system specific stuff
 UNAME := $(shell uname)
