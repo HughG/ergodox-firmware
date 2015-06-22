@@ -45,6 +45,7 @@ _quote,      2,
  _altL, _ctrlL, _space ),
 
 
+TODO("don't drop stickyness on modifiers")
 	KB_MATRIX_LAYER(  // layout: layer 1: shifted default
 // unused
 0,
